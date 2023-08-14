@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I use GitLab at work and GitHub for my side projects.
 
 <!--
 **cliffrubio/cliffrubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
